@@ -27,10 +27,16 @@
 
 .product img {
     width: 200px;
+    margin-bottom: 25px;
 }
 
 .product .description {
     text-align: center;
+    margin-bottom: 25px;
+}
+
+.product .description h2 {
+    margin-bottom: 5px;
 }
 
 .product:hover {
